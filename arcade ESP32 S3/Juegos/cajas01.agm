@@ -1,0 +1,24 @@
+ARCGAME1
+tipo=sokoban
+titulo=CAJAS
+color=FF8800
+portada=r,14,40,22,22,FF8800;r,44,24,22,22,FFB040;c,56,58,7,FFFFFF
+[nivel]
+#####
+#@$.#
+#####
+
+[nivel]
+######
+#    #
+# $@ #
+# .  #
+######
+
+[nivel]
+#######
+#.    #
+#  $  #
+#  @  #
+#.  $ #
+#######
